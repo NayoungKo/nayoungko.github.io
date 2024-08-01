@@ -1,16 +1,12 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Peer-reviewed articles
 
-{% include base_path %}
+* Ko, N., and Kim, S. (2020). The Characteristics of Korean Petroleum and Petrochemical Industries and Change of Participation in Global Value Chains \[written in Korean\]. *Journal of Economic Geographical Society of Korea*, *23*(3), 349--368. DOI: [10.23841/egsk.2020.23.3.349](https://doi.org/10.23841/egsk.2020.23.3.349).
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Work in progress
+* Motoyama, Y., Ko, N., Liu, C., and Qian, H. (submit). *Title redacted for anonymous peer review*.
