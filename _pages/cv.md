@@ -1,10 +1,7 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-[Download CV](/files/current-cv.pdf/)
+[Download CV](/files/cv0801.pdf/)
