@@ -25,8 +25,8 @@ author:
   name             : "Nayoung Ko"
   pronouns         : "she/her/hers" # example: "she/her"  
   bio              : "Ph.D. student at City and Regional Planning at The Ohio State University"
-  location         : "Columbus, Ohio, US"
-  employer         : "The Ohio State University"
+  location         : 
+  employer         : 
   uri              : # URL
   email            : "ko.426@osu.edu" 
 
