@@ -6,8 +6,6 @@ author_profile: true
 
 ## Ongoing
 * Bamboo Ceiling for Asian Doctorates
-
-* what
     * Resesarch Assistant, City and Regional Planning Section, Knowlton School of Architecture, OSU
     * PI: Dr. Yasuyuki Motoyama
 
